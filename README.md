@@ -16,11 +16,11 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 
 1. Git 
 
-	- Git installeren
+	- [Git](https://git-scm.com/downloads) installeren
 
 		- zeker toevoegen aan de PATH variabele
 
-	- Github account aanmaken
+	- [Github](https://github.com/) account aanmaken
 
 2. Cursus web backend structuur
 
@@ -32,17 +32,17 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 			|- oplossingen
 		```
 
-	- Op Github een repository "web-backend-oplossingen" aanmaken en deze linken aan je oplossingen map: https://github.com/pascalculator/web-backend#je-eigen-oplossingen-uploaden-naar-je-online-repository
+	- Op Github een repository "web-backend-oplossingen" aanmaken en deze linken aan je oplossingen map. Bekijk [de instructies](https://github.com/pascalculator/web-backend#je-eigen-oplossingen-uploaden-naar-je-online-repository).
 
-	- De cursus via Git binnenhalen: https://github.com/pascalculator/web-backend#git-gebruiken-om-cursus-te-downloaden
+	- De [cursus via Git binnenhalen](https://github.com/pascalculator/web-backend#git-gebruiken-om-cursus-te-downloaden)
 
 		- Let op: de map "cursus" wordt automatisch aangemaakt met dit commando: ```git clone https://github.com/pascalculator/web-backend.git cursus``` (let op het laatste woordje __cursus__. Dat is de naam van de map die aangemaakt zal worden.)
 
 3. Virtual hosts instellen
 
-	- Howto: https://github.com/pascalculator/web-backend/raw/master/public/cursus/virtual-server-setup.pdf
+	- [Instructies](https://github.com/pascalculator/web-backend/raw/master/public/cursus/virtual-server-setup.pdf)
 
-	- Voorbeeld van een virtual host configuratie: https://raw.githubusercontent.com/pascalculator/web-backend/master/public/cursus/vhost-voorbeeld.txt
+	- Voorbeeld van een [virtual host configuratie](https://raw.githubusercontent.com/pascalculator/web-backend/master/public/cursus/vhost-voorbeeld.txt)
 
 		- Deze virtual host config kan je integraal overnemen (mits de nodige aanpassingen), op voorwaarde dat je de laatste nieuwe versie van XAMPP (Apache) hebt draaien
 
@@ -50,9 +50,9 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 
 	- Stel je virtual hosts zo in dat wanneer je naar 
 
-		- http://web-backend.local surft in feite de map /web-backend/cursus/public wordt ingeladen
+		- http://web-backend.local surft de lokale map /web-backend/cursus/public wordt ingeladen
 
-		- http://oplossingen.web-backend.local surft de map /web-backend/oplossingen wordt ingeladen
+		- http://oplossingen.web-backend.local surft de lokale map /web-backend/oplossingen wordt ingeladen
 
 
 ## Spelregels
