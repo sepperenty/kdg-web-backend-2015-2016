@@ -1,4 +1,4 @@
-# KdG: Web Backend (2014-2015)
+# KdG: Web Backend (2015-2016)
 
 docent: Pascal Nosenzo (pascal.nosenzo@kdg.be)
 
@@ -55,9 +55,9 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 
 Er wordt geen eindexamen voor Web Backend geörganiseerd.
 
-## Feedback
+## Feedback ivm cursus
 
-Graag! Als je anoniem feedback wil achterlaten, vergeet dan niet uit te loggen van je Gmail-account of in een anoniem browserwindow naar de link te surfen.
+Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eventuele verbeteringen ivm de cursus.
 
 ## Studenten
 
