@@ -17,16 +17,20 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 1. Git 
 
 	- Git installeren
+
 		- zeker toevoegen aan de PATH variabele
+
 	- Github account aanmaken
 
 2. Cursus web backend structuur
 
 	- de volgende mappenstructuur aanmaken
 
+		```
 		web-backend
 			|- cursus (NOG NIET AANMAKEN -> dit gebeurt via Git)
 			|- oplossingen
+		```
 
 	- Op Github een repository "web-backend-oplossingen" aanmaken en deze linken aan je oplossingen map: https://github.com/pascalculator/web-backend#je-eigen-oplossingen-uploaden-naar-je-online-repository
 
