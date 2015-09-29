@@ -54,7 +54,14 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 
 		- http://oplossingen.web-backend.local surft de lokale map /web-backend/oplossingen wordt ingeladen
 
+4. Je naam, email en url van GitHub account toevoegen aan dit bestand
 
+	- Edit dit bestand door op het potloodje te klikken
+
+	- Voeg je gegevens toe
+
+	- Voer een [pull request](https://help.github.com/articles/using-pull-requests/) uit om de wijzigingen tot bij mij te krijgen
+	
 ## Spelregels
 
 - Deze cursus is zelfstudie: je doorloopt de slides, bekijkt de overeenstemmende voorbeelden en maakt vervolgens de opdrachten. Dat betekent niet dat je niet mag overleggen of vragen mag stellen. De docent is er om je te begeleiden en feedback te geven. Maak hier dus gebruik van!
